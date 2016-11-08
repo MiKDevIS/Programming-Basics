@@ -3,7 +3,7 @@ def main():
     p = 2 * 3.14 * r
     s = 3.14 * r**2
     print("Surface: ", s)
-    print("Premeter: ", p)
+    print("Perimeter: ", p)
 
 
 if __name__ == "__main__":
