@@ -3,7 +3,7 @@
 int main(){
         int r;
         float surface,perimeter;
-        printf("Please enter radius of circle: ");
+        printf("Please enter radius of your circle: ");
         scanf("%d", &r);
         surface = 3.14 * r * r;
         perimeter = 2 * 3.14 * r;
