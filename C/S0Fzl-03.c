@@ -11,5 +11,6 @@ int main(){
                         printf("Fail.\n");
         } else
                 printf("your grade is out of range.\n");
+
         return 0;
 }

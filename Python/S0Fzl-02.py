@@ -1,5 +1,5 @@
 def main():
-    a = int(input("Please enter your number:"))
+    a = int(input("Please enter your number: "))
     if a >= 0:
         print("Positive")
     else:
